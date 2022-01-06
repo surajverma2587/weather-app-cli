@@ -1,0 +1,25 @@
+{
+  "name": "weather-app-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/weather-app-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/weather-app-cli/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/weather-app-cli#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "inquirer": "^8.2.0",
+    "moment": "^2.29.1"
+  }
+}
